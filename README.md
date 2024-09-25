@@ -16,8 +16,8 @@ Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da 
 
 Sprint | Previsão | Status|
 |------|--------|------|
-|Kick Off Geral | 26/08/2024 | Concluido |
-|Kick Off 1° Semestre | 02/09/2024 | Concluido|
+|Kick Off Geral | 26/08/2024 - 30/08/2024 | Concluido |
+|Kick Off 1° Semestre | 02/09/2024 - 06/09/2024 | Concluido|
 |01| 09/09/2024 - 29/09/2024 | Em Progresso|
 |02| 07/10/2024 - 27/10/2024 | a fazer |
 |03| 04/11/2024 - 24/11/2024 | a fazer|
@@ -28,12 +28,7 @@ Sprint | Previsão | Status|
 
 
 # Objetivo do Projeto
-Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma GitHub, visando:
-* Centralizar os trabalhos e projetos;
-* Organizar e estruturar as informações;
-* Versionar e controlar as alterações;
-* Facilitar o compartilhamento e feedback;
-* Desenvolver habilidades técnicas.
+Desenvolver um sistema web que explique os processos e artefatos da Scrum, tendo conceitos e fundamentos com referências e exemplos para a compreensão do usuário. Criar um formulário para avaliações parciais e final (com totalização). O Sistema deve ter foco na disseminação dos processos para que os usuários possam replicar todos os passos em futuros desenvolvimentos. A prioridade secundária será a compreensão de Skills importantes para um profissional de TI. Todo o material de conhecimento publicado no sistema deverá ter forma indireta (Conhecimento adquirido e repassado pelos desenvolvedores). Bem como toda a documentação de desenvolvimento deverá ser lastreado no GitHub com todos os processos necessários para a fidelização do cliente.
 
 # Funcionalidades e registros (vídeos e apresentações) das sprints
 
@@ -47,9 +42,9 @@ Adicionar video e documentos nessa seção
 ## Tecnologias Utilizadas
 
 * Jira Software
-* Power BI
-* Microsoft Excel
-* Slack
+* Canva
+* Visual Code (HTTML e CSS)
+* Figma
 
 
 
@@ -133,10 +128,10 @@ Adicionar video e documentos nessa seção
 # Autores
 |    Função     | Nome                                  |                                                                                                                                                      LinkedIn & GitHub                                                                                                                                                      |
 | :-----------: | :------------------------------------ | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| Product Owner |   Letícia Gabriele de Oliveira Lopes         |     [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/joaomarcosoliveiraa) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Leti-10)              |
-| Scrum Master  | Yasmin Cristina Padilha |      [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mariagabrielareis/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/yaspadilha)     |
-| Team Member   | Julia Roberta Ferreira Prianti              |         [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/antonio-nepomuceno-04943720a/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/juliaprianti06)        |
-|  Team Member  | Rafaela da Silva Penafiel Diniz                 |         [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rafaela-diniz-b3748332b/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/rafaelapenafiel)        |
+| Product Owner |   Letícia Gabriele de Oliveira Lopes         |     [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Leti-10)              |
+| Scrum Master  | Yasmin Cristina Padilha |      [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/yaspadilha)     |
+| Team Member   | Julia Roberta Ferreira Prianti              |         [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/juliaprianti06)        |
+|  Team Member  | Rafaela da Silva Penafiel Diniz                 |         [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/rafaelapenafiel)        |
 |  Team Member  | Rebeca Amorim do Nascimento                 |   [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-camargo-915452196/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/GabrielCamargoL)   |
 |  Team Member  | Isabella Dombrowski Zanlorenzi       |           [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gioliveirass) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/gioliveirass)          |
 |  Team Member  | Bruna Correa da Silva       |           [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gioliveirass) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/gioliveirass)          |
