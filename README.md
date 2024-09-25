@@ -32,7 +32,7 @@ Desenvolver um sistema web que explique os processos e artefatos da Scrum, tendo
 
 # Funcionalidades e registros (vídeos e apresentações) das sprints
 
-Apresentação das funcionalidades
+Apresentação das funcionalidades.
 Confira a seguir uma demonstraão das funcionalidades para cada tipo de usuário do sistema:
 
 Adicionar video e documentos nessa seção
