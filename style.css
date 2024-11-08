@@ -1,0 +1,611 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=Source+Sans+3:ital,wght@0,200..900;1,200..900&display=swap');
+
+body{  
+    background: linear-gradient(to bottom, #0c0d1e, #003336);
+}
+
+header{
+    color: white;
+    font-weight: 800;
+    font-family: "Source Sans 3", bold;
+    font-style: normal;
+    font-size: 30px;
+    margin-left: 50px;
+}
+
+footer{
+    bottom: 0;
+    width: 100%;
+    display: flex;
+    justify-content:center;
+    margin-bottom: 20px;
+    margin-top: 8%;
+}
+
+.anterior{
+    font-family: "Source Sans 3", bold;
+    font-weight: 800;
+    list-style: none;
+    text-align: center;
+    background-color: black;
+    border-radius: 3cap;
+    height: 25px;
+    width: 160px;
+    padding: 4px;
+    border: solid 1px white; 
+    margin-left: 3%;
+    margin-top: 0%;
+}
+
+.fontep{
+    color: black !important;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+.próximo {
+    font-family: "Source Sans 3", bold;
+    font-weight: 800;
+    list-style: none;
+    text-align: center;
+    background-color: #d9d9d9;
+    border-radius: 3cap;
+    border: solid 1px black;
+    height: 25px;
+    width: 160px;
+    padding: 4px;
+    margin-left:1%;
+    margin-top: 0%;
+}
+
+h1{
+    color: white;
+    font-size: 50px;
+}
+#margin{
+    margin-top: 8%;
+    margin-bottom: -0.5%;
+}
+h2{
+    color:#d4af37;
+    font-family: "Source Sans 3";
+    font-weight: 900;
+    font-size: xx-large;
+    margin-bottom: 50px;
+    margin-top: 20px;
+}
+
+p{
+    color: whitesmoke;
+    font-size: x-large;
+    font-family: "Lato";
+    font-weight: 900;
+}
+
+section{
+    margin-left: 50px;
+    
+}
+
+ol{
+    color: whitesmoke;
+    font-size: x-large;
+    font-weight: 900;
+    font-family: "Source Sans 3";
+    margin-left: 0px;
+}
+    
+
+.avaliação{
+    font-family: "Source Sans 3", bold;
+    font-weight: 800;
+    list-style: none;
+    background-color: #d9d9d9;
+    border-radius: 3cap;
+    border: solid 1px black;
+    height: 25px;
+    width: 180px;
+    text-align: center;
+    font-size: 16px;
+    margin-top: 0.2;
+    padding: 4px;
+}
+
+.fontea{
+    color:black !important;
+    text-decoration: none;   
+}
+.home{
+    display: flex; 
+    margin-top: -2%;
+}
+.home img{
+    width: 50px;
+    
+}
+.soft{
+    display: flex;
+    gap:12px;
+    margin-left: 1%;
+    
+}
+.alinhar{
+    display: flex;
+    justify-content:baseline;
+    gap: 80px;
+}
+
+#introimg{
+    width: 360px;
+    height:310px;
+    float:inline-start;
+    margin-right: 2%;
+    margin-top: -2%;
+}
+
+h3{
+    background-color: black;
+    width: 500px;
+    height: 25px;
+    padding: 8px;
+    color: white;
+    font-family: 'Source Sans 3';
+    text-align: center;
+}
+.userstory{
+    display: inline;
+}
+
+#h3branco{
+    background-color:#d9d9d9;
+    color: black;
+    font-family: 'Source Sans 3';
+    font-weight: 800;
+    width: 500px;
+    height: 25px;
+    font-size: 18px;
+}
+
+#resumo{
+    background-color: #04AA6D;
+    width: 200px;
+    height: 130px;
+    border-radius: 3cap;
+}
+.resumo h3{
+    color:#0c0d1e;
+    text-align: center;
+    padding-top: 70px;
+    font-size: 20px;
+    font-family: "Source Sans 3", bold;
+    font-weight: 900;
+}
+.resumo{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 10%;
+}
+#img{
+    width: 300px;
+    height: 280px;
+    margin-left: 40%;
+    margin-top: -5%;
+}
+#imgartefatos{
+    float:left;
+    width: 350px;
+    height: 350px; 
+    margin-right: 20px;
+    margin-top: 2%;
+    border-radius: 1cap;
+}
+#burndown{
+    margin-left: 20%;
+    margin-top: 3%;
+    margin-bottom: -5%;
+}
+
+#imgdor{
+    width: 250px;
+    height: 220px;
+    float:  right;
+    border-radius: 25%;
+    margin-right: 12%;
+    margin-top: 2%;
+    background-color: #f4f4f4;
+}
+#imgdod{
+    width: 250px;
+    height: 220px;
+    border-radius: 25%;
+    float: inline-start;
+    margin-top: 2%;
+    margin-right: 3%;
+}
+#imgsoftskills{
+    width: 400px;
+    height: 350px;
+    float: inline-end;
+    margin-right: 70px;
+    border-radius: 20%;
+
+}
+#hardesoftimg{
+    width: 400px;
+    height: 350px;
+    border-radius: 20%;
+    float: inline-start;
+    margin-right:2%;
+    margin-top: 2%;
+}
+#imgscrum{
+    float: inline-end;
+    width: 400px;
+    height: 350px; 
+    margin-right:5%;
+}
+#timescrum{
+    float: left;
+    width: 400px;
+    height: 350px; 
+    margin-right:3%;
+    margin-top: -5%;
+
+}
+
+#mvpimg{
+    width: 600px;
+    height: 250px;
+    margin-left: 27%;
+    margin-top: 3%;
+    margin-bottom: -5%;
+}
+#qpo{
+    margin-top: 1%;
+    text-align: left;
+}
+
+#alinhar{
+    width: 1350px;
+}
+
+@media  screen and (max-width:768px){
+    h1{
+        font-size: 30px;
+    }
+    h2{
+        font-size: 25px;
+    }
+    p{
+        font-size: 20px;
+        width: 90%;
+    }
+    ol{
+        font-size: 20px;
+        margin-left: 50px;
+    }
+    #introimg{
+        width: 260px;
+        height:210px;
+    }
+    #imgscrum{
+        width: 270px;
+        height: 210px; 
+        margin-left: 2%;
+    }
+    #timescrum{
+        width: 280px;
+        height: 220px; 
+    }
+    #imgartefatos{
+        width: 250px;
+        height: 250px; 
+    }
+    #burndown{
+        margin-left: 10%;
+        width: 500px;
+        margin-bottom: 5%;
+    }
+    #imgdor{
+        width: 210px;
+        height: 170px;
+        margin-right: 3%;
+    }
+    #imgdod{
+        width: 210px;
+        height: 170px;
+        margin-right: 2%;
+    }
+    #imgsoftskills{
+        width: 300px;
+        height: 250px;
+    }
+    #hardesoftimg{
+        width: 300px;
+        height: 250px;
+        margin-right: 5%;
+    }
+    #img{
+        width: 280px;
+        height: 230px;
+    }
+    #alinhar{
+        width: 650px;
+    }
+    .resumo h3{
+        padding-top: 60px;
+        font-size: 17px;
+    }
+    #resumo{
+        width: 170px;
+        height: 120px;
+    }
+    h3{
+        width: 300px;
+        height: 25px;
+        font-size: 18px;
+    }
+    .userstory{
+        display: inline;
+    }
+    
+    #h3branco{
+        font-weight: 900;
+        width: 320px;
+        height: 25px;
+        font-size: 18px;
+    }
+    #mvpimg{
+        width: 500px;
+        height: 200px;
+        margin-left: 10%;
+    }
+}
+
+@media  screen and (max-width:520px){
+    h1{
+        font-size: 35px;
+        margin-top: 50px;
+    }
+    h2{
+        font-size: 20px;
+    }
+    .alinhar{
+        display: block;
+    
+    }
+    .alinhar img{
+        width: 180px;
+        height: 160px;
+        margin-top: -10%;
+        margin-left: 10%;
+        margin-bottom: 2%;
+    }
+    p{
+        font-size: 18px;
+        width: 90%;
+    }
+    ol{
+        font-size: 16px;
+        margin-left: 30px;
+    }
+    #introimg{
+        width: 220px;
+        height:180px;
+        float: inherit;
+        margin-left: 18%;
+    }
+    #imgscrum{
+        width: 270px;
+        height: 210px; 
+        margin-left: 10%;
+        float: inherit;
+    }
+    #timescrum{
+        width: 280px;
+        height: 220px; 
+        float: inherit;
+        margin-left: 10%;
+    }
+    #imgartefatos{
+        width: 190px;
+        height: 190px; 
+    }
+    #burndown{
+        margin-left: 0%;
+        width: 400px;
+        margin-bottom: 5%;
+    }
+    #imgdor{
+        width: 180px;
+        height: 150px;
+        float: initial;
+    }
+    #imgdod{
+        width: 180px;
+        height: 150px;
+        float: initial;
+        margin-top: 5%;
+    }
+    #imgsoftskills{
+        width: 270px;
+        height: 210px;
+        float: initial;
+        margin-left: 25%;
+    }
+    #hardesoftimg{
+        width: 270px;
+        height: 210px;
+        float: initial;
+        margin-left: 15%;
+    }
+    #img{
+        width: 250px;
+        height: 210px;
+        margin-left: 17%;
+    }
+    #alinhar{
+        width: 430px;
+    }
+    .resumo h3{
+        padding-top: 40px;
+        font-size: 15px;
+    }
+    #resumo{
+        width: 110px;
+        height: 90px;
+    }
+    #h3branco{
+        width: 350px;
+        height: 25px;
+    }
+    h3{
+        width: 350px;
+    }
+    #mvpimg{
+        width: 300px;
+        height: 180px;
+    }
+    .anterior{
+        width: 150px;
+    }
+    .próximo{
+        width: 150px;
+    }
+}
+
+
+@media  screen and (max-width:412px){
+    h1{
+        font-size: 30px;
+        margin-top: 50px;
+        
+    }
+    h2{
+        font-size: 20px;
+    }
+    .alinhar{
+        display: block;
+    
+    }
+    .alinhar img{
+        width: 180px;
+        height: 160px;
+        margin-top: -10%;
+        margin-left: 10%;
+        margin-bottom: 2%;
+    }
+    p{
+        font-size: 16px; 
+   }
+    ol{
+        font-size: 14px;
+        margin-left: 15px;
+    }
+    #introimg{
+        width: 200px;
+        height:180px;
+        margin-left: 15%;
+        float: inherit;
+    }
+    #imgscrum{
+        width: 230px;
+        height: 200px; 
+        margin-left: 10%;
+        float: inherit;
+    }
+    #timescrum{
+        width: 230px;
+        height: 200px; 
+        float: inherit;
+        margin-left: 10%;
+    }
+    #imgartefatos{
+        width: 150px;
+        height: 150px; 
+    }
+    #burndown{
+        margin-left: 0%;
+        width: 300px;
+        margin-bottom: 5%;
+    }
+    #imgdor{
+        width: 140px;
+        height: 120px;
+        float: initial;
+    }
+    #imgdod{
+        width: 140px;
+        height: 120px;
+        float: initial;
+        margin-top: 5%;
+    }
+    h3{
+        width: 70px;
+        height: 10px;
+        padding: 10px;
+        font-size: 12px;
+    }
+    #imgsoftskills{
+        width: 240px;
+        height: 200px;
+        float: initial;
+        margin-left: 16%;
+    }
+    #hardesoftimg{
+        width: 240px;
+        height: 200px;
+        float: initial;
+        margin-left: 8%;
+    }
+    #img{
+        width: 230px;
+        height: 190px;
+        margin-left: 10%;
+    }
+    #alinhar{
+        width: 310px;
+    }
+    .resumo h3{
+        padding-top: 20px;
+        font-size: 14px;
+
+    }
+    #resumo{
+        width: 110px;
+        height: 80px;
+
+    }
+    h3{
+        width: 230px;
+        height: 25px;
+        font-size: 18px;
+    }
+    
+    #h3branco{
+        width: 230px;
+        height: 25px;
+        font-size: 18px;
+    }
+    #mvpimg{
+        width: 270px;
+        height: 150px;
+        margin-left: 5%;
+    }
+    .home{
+        gap:100px;
+    }
+    .avaliação{
+        font-size: 15px;
+        width: 180px;
+    }
+    .anterior{
+        width: 130px;
+        margin-right: 2%;
+    }
+    .próximo{
+        width: 130px;
+        margin-left: 2%;
+    }
+}
+
